@@ -1,4 +1,4 @@
- 👥** Project Title: HR Talent Analytics Dashboard **📊
+ ## 👥** Project Title: HR Talent Analytics Dashboard **📊
 
 The HR Talent Analytics Dashboard is designed to analyze workforce data and provide insights into employee performance, retention, and organizational trends.
 This project demonstrates the use of Power BI for transforming raw HR data into actionable insights that support strategic HR decision-making.
