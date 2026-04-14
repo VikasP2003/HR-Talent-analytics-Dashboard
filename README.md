@@ -1,4 +1,4 @@
- 👥 Project Title: HR Talent Analytics Dashboard 📊
+ 👥** Project Title: HR Talent Analytics Dashboard **📊
 
 The HR Talent Analytics Dashboard is designed to analyze workforce data and provide insights into employee performance, retention, and organizational trends.
 This project demonstrates the use of Power BI for transforming raw HR data into actionable insights that support strategic HR decision-making.
@@ -70,13 +70,18 @@ The dataset includes employee-related information such as:
 <img width="689" height="392" alt="Overview" src="https://github.com/user-attachments/assets/fd0ab152-e11f-44db-b0b1-05eb9ee08583" />
 
 
-### 📊 Attrition Analysis
+### 📊 Gender Analysis
+<img width="721" height="401" alt="MaleRatio" src="https://github.com/user-attachments/assets/5b372f0b-735a-4f72-928f-e78ec108bb9f" />
+ <img width="721" height="397" alt="female_Ratiro" src="https://github.com/user-attachments/assets/fb801b2c-fbc3-4630-98d3-2028ad0eec73" />
 
-![Dashboard](images/dashboard2.png)
 
-### 👥 Employee Distribution
+### 👥 Employees between the age of 20-25
 
-![Dashboard](images/dashboard3.png)
+<img width="731" height="400" alt="age-20-25" src="https://github.com/user-attachments/assets/2f1f9aa3-dded-45c6-95cf-4c6a1e49d64f" />
+
+### Date of Joining of Kaine Padly
+<img width="733" height="395" alt="DOJ" src="https://github.com/user-attachments/assets/f0b3ea91-d7fc-4d2b-8d93-be831e42a9e4" />
+
 
 ---
 
@@ -96,34 +101,6 @@ The dataset includes employee-related information such as:
 * Easy-to-use filters and drill-down
 * Business-focused analytics
 
----
-
-## 📁 Repository Structure
-
-```text id="hr1"
-hr-talent-analytics-dashboard/
-│
-├── dashboard/
-│   └── HRDashboard.pbix
-│
-├── data/
-│   └── hr_data.csv
-│
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│
-├── README.md
-```
-
----
-
-## 🌐 Live Dashboard
-
-(Add your NovyPro link here)
-
----
 
 ## 🙌 Conclusion
 
