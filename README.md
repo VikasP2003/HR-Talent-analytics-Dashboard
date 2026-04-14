@@ -67,8 +67,8 @@ The dataset includes employee-related information such as:
 ---
 
 ## 📸 Dashboard Preview
+<img width="689" height="392" alt="Overview" src="https://github.com/user-attachments/assets/fd0ab152-e11f-44db-b0b1-05eb9ee08583" />
 
-![Dashboard](images/dashboard1.png)
 
 ### 📊 Attrition Analysis
 
