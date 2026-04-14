@@ -101,7 +101,8 @@ The dataset includes employee-related information such as:
 * Easy-to-use filters and drill-down
 * Business-focused analytics
 
-
+## Novipro Link- 
+https://www.novypro.com/create_project/hr-talent-analytics-dashboard
 ## 🙌 Conclusion
 
 This project showcases how HR analytics can be leveraged using Power BI to improve employee management, reduce attrition, and enhance organizational performance.
